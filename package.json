@@ -1,0 +1,15 @@
+{
+  "name": "sincronizador-sinesp",
+  "version": "1.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^5.7.1",
+    "ws": "^7.2.3"
+  }
+}

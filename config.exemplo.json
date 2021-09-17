@@ -1,0 +1,4 @@
+{
+    "endpoint": "wss://cad.sinesp.gov.br/cad-integracao/ocorrencia/XXX-XX",
+    "database": "mongodb://localhost/sinesp"
+}
